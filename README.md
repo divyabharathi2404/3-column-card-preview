@@ -1,4 +1,4 @@
-"# Frentend Mentor Chanllenge - 3-column preview card component" 
+"# Frontend Mentor Chanllenge - 3-column preview card component" 
 
 # Preview
 Desktop View
